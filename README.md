@@ -20,5 +20,5 @@ Run flutter app in your device or emulator.
 ## Project colaborators
 
 * joao-vgarcia
-* 
-*
+* LeonardoMenichelli
+* joaoccl1
