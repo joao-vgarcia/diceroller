@@ -1,16 +1,24 @@
 # diceroller
 
-A new Flutter project.
+This is a dice roller app.
 
-## Getting Started
+## Project infos and features
 
-This project is a starting point for a Flutter application.
+We'll try to create some features in this app:
+  * A local way to save your data like name, and character status.
+  * The dice roller for the DM wich will have the modificators and bonus or debuffs
+  * The dice roller for the PC that's will be a character status roller.
 
-A few resources to get you started if this is your first Flutter project:
+## Get started 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Run flutter app in your device or emulator.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project structure
+
+-----
+
+## Project colaborators
+
+* joao-vgarcia
+* 
+*
