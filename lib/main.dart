@@ -1,3 +1,6 @@
+/**
+ * O arquivo principal vai servir só como um switch de rotas
+ */
 import 'package:flutter/material.dart';
 
 void main() {
